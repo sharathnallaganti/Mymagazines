@@ -1,0 +1,7 @@
+{
+  "name": "Mymagazines",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
